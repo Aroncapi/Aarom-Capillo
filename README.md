@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Arom Capillo Ramos
 
 **Desarrollador Full Stack & Backend (Java / .NET / Android)**  
-📍 Lima, Perú | 📧 aromcapilloramos@gmail.com | 📱 +51 937336603  
+📍 Lima, Perú | 📧 aromcapilloramos@gmail.com 
 🔗 **GitHub:** [github.com/Aroncapi](https://github.com/Aroncapi)[cite: 1]
 
 ---
